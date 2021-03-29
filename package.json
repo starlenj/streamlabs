@@ -28,7 +28,8 @@
     "express": "^4.16.4",
     "lodash": ">=4.17.13",
     "mkdirp": "1.0.3",
-    "ws": "^5.2.2"
+    "ws": "^5.2.2",
+    "node-media-server": "^2.2.4"
   },
   "engines": {
     "node": ">=8.0.0"
