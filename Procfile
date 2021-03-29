@@ -1,1 +1,1 @@
-web: node ./nms/app.js
+web: node nms/app.js
